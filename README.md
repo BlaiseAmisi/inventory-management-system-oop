@@ -1,11 +1,23 @@
 # Object Oriented Programming: Course-Project
-#Description
-This inventory Management System is a set of processes and tools that helps businesses track and manage their inventory effectively
+# Description
+This project is an object-oriented inventory management system designed to track and manage items efficiently. It allows users to add, update, and remove inventory items while maintaining organized records.
 
 # Features
-Add and remove inventory items
+Add new inventory items
 Update item quantities
-Display current inventory
+Remove items from inventory
+Display current inventory status
 
 # Language 
 Python
+Object-Oriented Programming
+
+# Clone the repository
+Navigate to the project folder
+Run the main file:
+python main.py
+
+# What I learned 
+Applying OOP concepts like classes and objects
+Structuring a real-world system
+Debugging and improving code orga
