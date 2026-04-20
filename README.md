@@ -1,4 +1,4 @@
-# Object Oriented Programming: Course-Project
+# Inventory-management-system-oop
 # Description
 This project is an object-oriented inventory management system designed to track and manage items efficiently. It allows users to add, update, and remove inventory items while maintaining organized records.
 
